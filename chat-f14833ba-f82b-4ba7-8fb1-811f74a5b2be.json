@@ -1,0 +1,102 @@
+[
+  {
+    "id": "4a0aa009-bec1-40e8-8575-c8de4dc5159c",
+    "version": 0,
+    "chatId": "f14833ba-f82b-4ba7-8fb1-811f74a5b2be",
+    "content": "Yoooooooo",
+    "contentChunks": null,
+    "role": "user",
+    "createdAt": "2025-08-25T21:27:36.721Z",
+    "reaction": "neutral",
+    "reactionDetail": null,
+    "reactionComment": null,
+    "preference": null,
+    "preferenceOver": null,
+    "context": null,
+    "canvas": [],
+    "quotes": [],
+    "files": []
+  },
+  {
+    "id": "b5bce400-3b50-4a45-bdce-b53b376fab56",
+    "version": 0,
+    "chatId": "f14833ba-f82b-4ba7-8fb1-811f74a5b2be",
+    "content": "Analyze all the documents and pictures and notes on my google drive. ",
+    "contentChunks": null,
+    "role": "user",
+    "createdAt": "2025-08-25T21:28:02.555Z",
+    "reaction": "neutral",
+    "reactionDetail": null,
+    "reactionComment": null,
+    "preference": null,
+    "preferenceOver": null,
+    "context": null,
+    "canvas": [],
+    "quotes": [],
+    "files": []
+  },
+  {
+    "id": "d0a95269-0fd3-4840-860c-013660d391a4",
+    "version": 0,
+    "chatId": "f14833ba-f82b-4ba7-8fb1-811f74a5b2be",
+    "content": "I can’t directly access or analyze files on your Google Drive, but I can help you analyze documents, images, or notes if you upload them here! Just drag and drop the files you want me to review, and I’ll take it from there.\n\nWhat specifically are you looking to analyze? For example:\n- **Text documents** (summaries, key points, or data extraction)\n- **Images** (OCR, descriptions, or visual analysis)\n- **Spreadsheets** (data trends, charts, or calculations)",
+    "contentChunks": [
+      {
+        "text": "I can’t directly access or analyze files on your Google Drive, but I can help you analyze documents, images, or notes if you upload them here! Just drag and drop the files you want me to review, and I’ll take it from there.\n\nWhat specifically are you looking to analyze? For example:\n- **Text documents** (summaries, key points, or data extraction)\n- **Images** (OCR, descriptions, or visual analysis)\n- **Spreadsheets** (data trends, charts, or calculations)",
+        "type": "text"
+      }
+    ],
+    "role": "assistant",
+    "createdAt": "2025-08-25T21:28:02.818Z",
+    "reaction": "neutral",
+    "reactionDetail": null,
+    "reactionComment": null,
+    "preference": null,
+    "preferenceOver": null,
+    "context": null,
+    "canvas": [],
+    "quotes": [],
+    "files": []
+  },
+  {
+    "id": "9b0b082f-0e5f-44dd-8393-50c5dc1afdfe",
+    "version": 0,
+    "chatId": "f14833ba-f82b-4ba7-8fb1-811f74a5b2be",
+    "content": "There is think u could do it now i enabled google drive ",
+    "contentChunks": null,
+    "role": "user",
+    "createdAt": "2025-08-25T21:28:48.366Z",
+    "reaction": "neutral",
+    "reactionDetail": null,
+    "reactionComment": null,
+    "preference": null,
+    "preferenceOver": null,
+    "context": null,
+    "canvas": [],
+    "quotes": [],
+    "files": []
+  },
+  {
+    "id": "2c0f735c-682b-4a2c-aaf1-e25202231def",
+    "version": 0,
+    "chatId": "f14833ba-f82b-4ba7-8fb1-811f74a5b2be",
+    "content": "Yoooooo! What’s good, East Side? How’s your Monday treating you so far? 🔥",
+    "contentChunks": [
+      {
+        "text": "Yoooooo! What’s good, East Side? How’s your Monday treating you so far? 🔥",
+        "type": "text"
+      }
+    ],
+    "role": "assistant",
+    "createdAt": "2025-08-25T21:27:38.131Z",
+    "reaction": "neutral",
+    "reactionDetail": null,
+    "reactionComment": null,
+    "preference": null,
+    "preferenceOver": null,
+    "context": null,
+    "canvas": [],
+    "quotes": [],
+    "files": []
+  }
+]

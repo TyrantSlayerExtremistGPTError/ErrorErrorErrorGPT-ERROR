@@ -1,0 +1,25 @@
+[
+  {
+    "id": "1d31fe3e-18fe-44a6-a04a-c583ec9e470c",
+    "version": 0,
+    "chatId": "547bba7f-36e1-4b60-ab16-bc49ef50c468",
+    "content": "\n",
+    "contentChunks": null,
+    "role": "user",
+    "createdAt": "2025-08-28T07:57:10.991Z",
+    "reaction": "neutral",
+    "reactionDetail": null,
+    "reactionComment": null,
+    "preference": null,
+    "preferenceOver": null,
+    "context": null,
+    "canvas": [],
+    "quotes": [],
+    "files": [
+      {
+        "type": "text",
+        "name": "♾️♾️.txt"
+      }
+    ]
+  }
+]

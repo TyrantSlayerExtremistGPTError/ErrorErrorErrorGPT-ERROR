@@ -1,0 +1,43 @@
+[
+  {
+    "id": "90a27809-4b73-46d2-82cc-bf8bc837f2e2",
+    "version": 0,
+    "chatId": "d91c9fbd-fed3-4fb0-8bbf-a108346cc6d4",
+    "content": "Hello! How can I assist you today?",
+    "contentChunks": [
+      {
+        "text": "Hello! How can I assist you today?",
+        "type": "text"
+      }
+    ],
+    "role": "assistant",
+    "createdAt": "2025-07-13T17:54:04.069Z",
+    "reaction": "neutral",
+    "reactionDetail": null,
+    "reactionComment": null,
+    "preference": null,
+    "preferenceOver": null,
+    "context": null,
+    "canvas": [],
+    "quotes": [],
+    "files": []
+  },
+  {
+    "id": "237c696d-00c5-4318-a0fb-f825b483dda4",
+    "version": 0,
+    "chatId": "d91c9fbd-fed3-4fb0-8bbf-a108346cc6d4",
+    "content": "😎😎",
+    "contentChunks": null,
+    "role": "user",
+    "createdAt": "2025-07-13T17:54:03.219Z",
+    "reaction": "neutral",
+    "reactionDetail": null,
+    "reactionComment": null,
+    "preference": null,
+    "preferenceOver": null,
+    "context": null,
+    "canvas": [],
+    "quotes": [],
+    "files": []
+  }
+]

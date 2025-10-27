@@ -1,0 +1,57 @@
+[
+  {
+    "id": "139436f3-5806-4b02-8f1f-fb2287d13b7e",
+    "version": 0,
+    "chatId": "f8df655e-f427-43b3-880c-e92b2e4202ec",
+    "content": "Naruto tailed beasts and their jinchuriki",
+    "contentChunks": null,
+    "role": "user",
+    "createdAt": "2025-07-18T07:59:34.222Z",
+    "reaction": "neutral",
+    "reactionDetail": null,
+    "reactionComment": null,
+    "preference": null,
+    "preferenceOver": null,
+    "context": null,
+    "canvas": [],
+    "quotes": [],
+    "files": []
+  },
+  {
+    "id": "fadbc885-38fe-4a94-9bdf-fed4f2742e52",
+    "version": 0,
+    "chatId": "f8df655e-f427-43b3-880c-e92b2e4202ec",
+    "content": "Here’s a concise overview of the **Tailed Beasts (Bijū)** and their known **Jinchūriki** in the *Naruto* series:\n\n\n\n| Tailed Beast | Tails | Name          | Jinchūriki (Known)                                                                 |\n|--------------|-------|---------------|-----------------------------------------------------------------------------------|\n| Shukaku      | 1     | One-Tail      | Gaara (Suna), Bunpuku (Iwa), Yugito Nii (Kumo, filler)                             |\n| Matatabi     | 2     | Two-Tails     | Yugito Nii (Kumo)                                                                 |\n| Isobu        | 3     | Three-Tails   | Yagura (Kiri), Rin Nohara (Konoha, temporarily)                                   |\n| Son Gokū     | 4     | Four-Tails    | Rōshi (Iwa)                                                                      |\n| Kokuō        | 5     | Five-Tails    | Han (Iwa)                                                                         |\n| Saiken       | 6     | Six-Tails     | Utakata (Kiri)                                                                   |\n| Chōmei       | 7     | Seven-Tails   | Fū (Taki)                                                                         |\n| Gyūki        | 8     | Eight-Tails   | Killer B (Kumo), Blue B (Kumo, temporarily)                                      |\n| Kurama       | 9     | Nine-Tails    | Naruto Uzumaki (Konoha), Kushina Uzumaki (Konoha), Minato Namikaze (Konoha, briefly) |\n| Ten-Tails    | 10    | Jūbi          | Hagoromo Ōtsutsuki (briefly), Obito Uchiha (temporarily), Madara Uchiha (briefly) |\n\n### Key Notes:\n- **Jinchūriki** are humans who have a tailed beast sealed inside them.\n- Some jinchūriki (like Yugito Nii) appear only in filler arcs or non-canon material.\n- The **Ten-Tails** is a special case, as it is the combination of all nine tailed beasts and was never permanently sealed into a single jinchūriki.\n\nWould you like details on a specific tailed beast or jinchūriki?",
+    "contentChunks": [
+      {
+        "text": "Here’s a concise overview of the **Tailed Beasts (Bijū)** and their known **Jinchūriki** in the *Naruto* series:\n\n",
+        "type": "text"
+      },
+      {
+        "type": "custom_element",
+        "display": "inline",
+        "element": {
+          "type": "table-metadata",
+          "attributes": {
+            "title": "Tailed Beasts and Jinchūriki"
+          }
+        }
+      },
+      {
+        "text": "\n\n| Tailed Beast | Tails | Name          | Jinchūriki (Known)                                                                 |\n|--------------|-------|---------------|-----------------------------------------------------------------------------------|\n| Shukaku      | 1     | One-Tail      | Gaara (Suna), Bunpuku (Iwa), Yugito Nii (Kumo, filler)                             |\n| Matatabi     | 2     | Two-Tails     | Yugito Nii (Kumo)                                                                 |\n| Isobu        | 3     | Three-Tails   | Yagura (Kiri), Rin Nohara (Konoha, temporarily)                                   |\n| Son Gokū     | 4     | Four-Tails    | Rōshi (Iwa)                                                                      |\n| Kokuō        | 5     | Five-Tails    | Han (Iwa)                                                                         |\n| Saiken       | 6     | Six-Tails     | Utakata (Kiri)                                                                   |\n| Chōmei       | 7     | Seven-Tails   | Fū (Taki)                                                                         |\n| Gyūki        | 8     | Eight-Tails   | Killer B (Kumo), Blue B (Kumo, temporarily)                                      |\n| Kurama       | 9     | Nine-Tails    | Naruto Uzumaki (Konoha), Kushina Uzumaki (Konoha), Minato Namikaze (Konoha, briefly) |\n| Ten-Tails    | 10    | Jūbi          | Hagoromo Ōtsutsuki (briefly), Obito Uchiha (temporarily), Madara Uchiha (briefly) |\n\n### Key Notes:\n- **Jinchūriki** are humans who have a tailed beast sealed inside them.\n- Some jinchūriki (like Yugito Nii) appear only in filler arcs or non-canon material.\n- The **Ten-Tails** is a special case, as it is the combination of all nine tailed beasts and was never permanently sealed into a single jinchūriki.\n\nWould you like details on a specific tailed beast or jinchūriki?",
+        "type": "text"
+      }
+    ],
+    "role": "assistant",
+    "createdAt": "2025-08-21T19:10:13.576Z",
+    "reaction": "neutral",
+    "reactionDetail": null,
+    "reactionComment": null,
+    "preference": null,
+    "preferenceOver": null,
+    "context": null,
+    "canvas": [],
+    "quotes": [],
+    "files": []
+  }
+]

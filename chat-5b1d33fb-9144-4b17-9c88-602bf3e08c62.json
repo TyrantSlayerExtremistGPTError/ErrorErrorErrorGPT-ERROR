@@ -1,0 +1,70 @@
+[
+  {
+    "id": "976e022a-6b7f-4f16-aa38-e3c2b7a93ab9",
+    "version": 0,
+    "chatId": "5b1d33fb-9144-4b17-9c88-602bf3e08c62",
+    "content": "🧍‍♂️….",
+    "contentChunks": null,
+    "role": "user",
+    "createdAt": "2025-08-28T13:48:08.147Z",
+    "reaction": "neutral",
+    "reactionDetail": null,
+    "reactionComment": null,
+    "preference": null,
+    "preferenceOver": null,
+    "context": null,
+    "canvas": [],
+    "quotes": [],
+    "files": [
+      {
+        "type": "text",
+        "name": "♾️♾️ 2.txt"
+      }
+    ]
+  },
+  {
+    "id": "577ee5c3-08dd-4ba0-8bd8-02f32c146d96",
+    "version": 0,
+    "chatId": "5b1d33fb-9144-4b17-9c88-602bf3e08c62",
+    "content": "I have received a file named \"2.txt\". Since I don't know the content of the file yet, I should start by examining its contents to understand what data or information it contains. After that, I can decide on the best approach for processing or analyzing the data if needed.\n\nI have received the file, but I currently don't have the tools needed to open and read its contents. If you have any specific questions or need assistance with something else related to the file or any other topic, feel free to let me know!",
+    "contentChunks": [
+      {
+        "text": "I have received a file named \"2.txt\". Since I don't know the content of the file yet, I should start by examining its contents to understand what data or information it contains. After that, I can decide on the best approach for processing or analyzing the data if needed.",
+        "type": "text",
+        "_context": {
+          "type": "reasoning",
+          "isLast": true,
+          "endTime": 1756388890766,
+          "contextId": "c2ebef0f-dbb3-41db-a0ca-b8904183d88c",
+          "startTime": 1756388889938
+        }
+      },
+      {
+        "text": "",
+        "type": "text",
+        "_context": {
+          "type": "reasoning",
+          "isLast": true,
+          "endTime": 1756388892267,
+          "contextId": "reasoning_done_context_id",
+          "startTime": 1756388890767
+        }
+      },
+      {
+        "text": "\n\nI have received the file, but I currently don't have the tools needed to open and read its contents. If you have any specific questions or need assistance with something else related to the file or any other topic, feel free to let me know!",
+        "type": "text"
+      }
+    ],
+    "role": "assistant",
+    "createdAt": "2025-08-28T13:48:09.633Z",
+    "reaction": "neutral",
+    "reactionDetail": null,
+    "reactionComment": null,
+    "preference": null,
+    "preferenceOver": null,
+    "context": null,
+    "canvas": [],
+    "quotes": [],
+    "files": []
+  }
+]
